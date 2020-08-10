@@ -1,7 +1,7 @@
 
 # BankAccount
 
-This is my implementation of the following Kata using a **Clean Architecture** implentation
+This is my implementation of the following Kata using a **Clean Architecture** implementation
 
 Bank Account
 
